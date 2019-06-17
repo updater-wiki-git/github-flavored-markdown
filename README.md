@@ -1,2 +1,2 @@
-# github-flavored-markdown
-GitHub's Flavor of Markdown
+
+http://kramdown.gettalong.org/
